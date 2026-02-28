@@ -3,9 +3,29 @@
 using namespace std;
 int main(){
  // problem link :https://leetcode.com/problems/powx-n/description/
-    int n = 10;
-    double x= 2.00000;
-     double result = pow(x,n);
-       cout <<  result <<endl;
-   return 0;     
-}
+double  x = 2.00000;
+int n = 10;
+   if (n == 0) return 1.0;
+        if(x == 0) return 0.0;
+        if (x == 1 ) return 1.0;
+        if(x == -1 && n%2 == 0) return 1.0;
+        if(x == -1 && n%2 != 0)  return -1.0;
+        long binForm = n;
+        if(n<0) {
+            x = 1/x;
+            binForm =  -binForm;
+        } 
+        double ans = 1;
+        while (binForm  > 0){
+        
+                if(binForm % 2 == 1){
+                    ans*= x; 
+                }
+                x *=x;
+                binForm /= 2;
+
+            }
+            cout << ans << endl;
+        }
+    
+
