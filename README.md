@@ -1,3 +1,3 @@
 # dsa-question-practice
-##Array 
-##Binary search 
+## Array 
+## Binary search 
