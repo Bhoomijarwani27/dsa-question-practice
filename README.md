@@ -31,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1510-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
