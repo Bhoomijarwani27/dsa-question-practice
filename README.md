@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -32,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -42,6 +44,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -51,6 +54,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
