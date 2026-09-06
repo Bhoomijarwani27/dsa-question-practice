@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -47,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/0115-distinct-subsequences) |
 | [1510-stone-game-iv](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
