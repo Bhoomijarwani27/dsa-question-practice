@@ -23,6 +23,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
 | ------- |
