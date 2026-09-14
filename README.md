@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
