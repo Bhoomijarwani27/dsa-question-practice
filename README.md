@@ -36,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -44,6 +45,7 @@
 | [0115-distinct-subsequences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -56,11 +58,13 @@
 | [0115-distinct-subsequences](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1510-stone-game-iv) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bhoomijarwani27/dsa-question-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
